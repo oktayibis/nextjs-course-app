@@ -1,0 +1,4 @@
+/* CSS modules only use class.. So you can not use html, body tags here */
+.body {
+  color: green;
+}
